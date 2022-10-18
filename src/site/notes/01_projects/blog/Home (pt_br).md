@@ -15,6 +15,5 @@ Para informações sobre a organização e desenvolvimento deste website, confir
 Todas as opiniões expostas se tratam das _minhas percepções_, com _minhas palavras_ e sob _meu ponto de vista_, que é, por definição, _limitado e enviesado._
 
 ## Posts
-- [[01_projects/blog/Home|Home]]
-- [[01_projects/blog/Home (pt_br)|Home (pt_br)]]
+- [[01_projects/blog/Blog - About (pt_br)|Blog - About ]]
 
