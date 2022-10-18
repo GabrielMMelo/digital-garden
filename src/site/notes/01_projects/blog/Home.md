@@ -11,6 +11,6 @@
 
 
 ## Posts
-- [[00_inbox/How to setup a local Apache Spark environment for studying purposes on Obsidian notes|How to setup a local Apache Spark environment for studying purposes on Obsidian notes]]
+- [[00_inbox/How to setup a simple local big data dev environment for studying purposes on Obsidian|How to setup a simple local big data dev environment for studying purposes on Obsidian]]
 
 
