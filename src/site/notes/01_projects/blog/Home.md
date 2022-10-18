@@ -3,16 +3,16 @@
 ---
 
 # gabrielmmelo's Blog
-[[01_projects/blog/Home (pt_br)|Portuguese version here 🇧🇷 🇵🇹]]
 
 > [!Quote] ‎ 
 > *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.*  
 > Unknown author
 
-
 > [!WARNING] Pending
+> This is work in progress
 
 
 ## Posts
+- [[00_inbox/How to setup a local Apache Spark environment for studying purposes on Obsidian notes|How to setup a local Apache Spark environment for studying purposes on Obsidian notes]]
 
 
