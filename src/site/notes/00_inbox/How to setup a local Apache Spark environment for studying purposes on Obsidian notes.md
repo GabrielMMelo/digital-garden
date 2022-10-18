@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/how-to-setup-a-local-apache-spark-environment-for-studying-purposes-on-obsidian-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"dg-permalink":"How to setup a local Apache Spark environment for studying purposes on Obsidian notes","permalink":"/How to setup a local Apache Spark environment for studying purposes on Obsidian notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
