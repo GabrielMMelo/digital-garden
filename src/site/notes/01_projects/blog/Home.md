@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # gabrielmmelo's Blog
