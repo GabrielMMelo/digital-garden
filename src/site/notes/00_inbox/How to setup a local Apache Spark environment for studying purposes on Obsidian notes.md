@@ -31,7 +31,7 @@ pkill minio
 ## 2. Setup [[07_work_projects/inbox/Apache Spark|Apache Spark]] session
 1. Set dependencies and settings
 2. Create spark session
-```run-python
+```python
 from pyspark import SparkConf
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
@@ -53,9 +53,9 @@ sc.setLogLevel("ERROR")
 ```
 
 ## 3. Testing
-### 3.1. Reading local filesystem file ✅
+### 3.1. Reading local filesystem file
 Read a file, make a simple transformation and show it.
-```run-python
+```python
 test_file = "/Users/bfa/test.txt"
 df = spark.read.format("csv").option("delimiter", "\t").load(test_file)
 df_modified = df.withColumn("x_column", F.lit("X"))\
@@ -63,13 +63,13 @@ df_modified = df.withColumn("x_column", F.lit("X"))\
 df_modified.show()
 ```
 
-```run-python
+```python
 df_modified.count()
 ```
 
-### 3.2. Reading local [[Minio|Minio]] file ✅
+### 3.2. Reading local [[Minio|Minio]] file
 1. Read file from Minio, make some transformations and show it
-```run-python
+```python
 minio_file = "s3a://lake/raw/AgeDataset-V1.csv"
 minio_df = spark.read.format("csv").option("header", True).load(minio_file)
 minio_df_modified = minio_df.withColumn("x_column", F.lit("X"))\
@@ -77,18 +77,18 @@ minio_df_modified = minio_df.withColumn("x_column", F.lit("X"))\
 minio_df_modified.show()
 ```
 
-```run-python
+```python
 minio_df_modified.count()
 ```
 
-### 3.3. Handling [[Delta Lake|Delta Lake]] tables ✅
+### 3.3. Handling [[Delta Lake|Delta Lake]] tables
 1. Creating delta table
-```run-python
+```python
 df_modified.write.format("delta").save("s3a://lake/raw/delta_test")
 ```
 
 2. Reading delta table
-```run-python
+```python
 delta_df = spark.read.format("delta").load("s3a://lake/raw/delta_test")
 delta_df.show()
 ```
