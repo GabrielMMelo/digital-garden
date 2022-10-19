@@ -1,15 +1,10 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /* quote callouts customizations:
+    - Add big opening and closing double quotes
+    - Remove ugly icon
+    - Remove background
+    - Centralize it
+  */
   div.callout-quote .admonition-title::before {
       content: "";
       margin-bottom: 0px;
@@ -20,8 +15,26 @@ body {
       font-size: 2rem;
   }
   div.callout-quote .admonition-title em::after {
-    content: " ❞ ";
+    content: "❞ ";
     font-size: 2rem;
     text-align: right;
-}
+  }
+  div.callout-quote .admonition-title {
+    font-size: 1rem; 
+  }
+  div.callout-quote .admonition-title em {
+    font-size: 1.3rem; 
+    color: rgba(0,0,0,0.7);
+  }
+  div.callout-quote .admonition-title p {
+    display: none;
+  }
+  div.callout-quote p {
+    display: none;
+  }
+  div.callout-quote {
+    text-align: right;
+    font-family: fangsong;
+    background-color: transparent;
+  }
 }
