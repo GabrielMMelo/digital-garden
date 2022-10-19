@@ -10,4 +10,18 @@ body {
     //  h1 {
     //   color: black;
     //  }
+  div.callout-quote .admonition-title::before {
+      content: "";
+      margin-bottom: 0px;
+      margin-right: 0px;
+  }
+  div.callout-quote .admonition-title em::before {
+      content: "❝ ";
+      font-size: 2rem;
+  }
+  div.callout-quote .admonition-title em::after {
+    content: " ❞ ";
+    font-size: 2rem;
+    text-align: right;
+}
 }
