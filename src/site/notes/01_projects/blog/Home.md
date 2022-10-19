@@ -4,7 +4,7 @@
 
 # gabrielmmelo's blog/digital-garden/window/portfolio
 
-> [!Quote] *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.* Unknown author
+> [!Quote] *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.* [[Unknown author|Unknown author]]
 
 > [!WARNING] Pending
 > This is a work in progress
