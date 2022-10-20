@@ -6,6 +6,8 @@
 
 > [!Quote] *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.* [[Unknown author|Unknown author]]
 
+## Introduction
+This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test 
 > [!WARNING] Pending
 > This is a work in progress
 
@@ -14,3 +16,4 @@
 - [[00_inbox/How to setup a simple local big data dev environment for studying purposes on Obsidian|How to setup a simple local big data dev environment for studying purposes on Obsidian]]
 
 
+	
