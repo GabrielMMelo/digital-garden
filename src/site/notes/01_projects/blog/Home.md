@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
-# gabrielmmelo's window
+# gabrielmmelo's window 🪟
 
 > [!Quote] *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.* [[Unknown author|Unknown author]]
 
