@@ -16,7 +16,6 @@ All content shared within this space[^1] reflects the perceptions and points of 
 [^1]: Except by citations and explicit references.
 
 ## Posts
-- [[00_inbox/How to setup a simple local big data dev environment for studying purposes on Obsidian|How to setup a simple local big data dev environment for studying purposes on Obsidian]]
 
 
 	
