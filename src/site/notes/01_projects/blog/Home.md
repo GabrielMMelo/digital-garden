@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true}
 ---
 
 # gabrielmmelo's window 🪟
@@ -13,9 +13,11 @@ For information about how this window is organized and implemented, check out [[
 
 All content shared within this space[^1] reflects the perceptions and points of view I had at the time of writing. My opinions are, by definition, limited and biased.
 
-*Welcome.*
+*Be welcome.*
 
 [^1]: Except by citations and explicit references.
+
+---
 
 ## Posts
 
