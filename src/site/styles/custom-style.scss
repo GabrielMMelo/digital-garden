@@ -1,4 +1,21 @@
 body {
+  /* Justify paragraphs */
+  p {
+    text-align: justify;
+  }
+
+  /* Back home anchor customization:
+    - Change color
+    - Add prefix left arrow
+  */
+  a[href="/"] {
+    color: rgba(0, 0, 0, 0.7);
+  }
+  a[href="/"]::before {
+    content: "↤ ";
+    font-size: 1.5rem;
+  }
+
   /* Make first letter of first paragraph big:
     - Unconsider header images
   */
