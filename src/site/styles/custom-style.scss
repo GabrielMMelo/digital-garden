@@ -1,5 +1,13 @@
 body {
-  /* quote callouts customizations:
+  /* Make first letter of first paragraph big:
+    - Unconsider header images
+  */
+  div:first-of-type > h2:first-of-type+p:not(:has(img))::first-letter {
+    font-size: 45px;
+    font-family: InitialCaps-O5WP;
+  }
+
+  /* Quote callouts customizations:
     - Add big opening and closing double quotes
     - Remove ugly icon
     - Remove background
