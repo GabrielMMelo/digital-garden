@@ -1,4 +1,9 @@
 body {
+  /* Justify paragraphs */
+  p {
+    text-align: justify;
+  }
+
   /* Back home anchor customization:
     - Change color
     - Add prefix left arrow
