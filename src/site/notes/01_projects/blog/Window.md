@@ -3,10 +3,14 @@
 ---
 
 
-## What is it?
+## What is this?
+
+<iframe src="https://free.timeanddate.com/clock/i8k1xk65/n1085/tt0" frameborder="0" width="340" height="18"></iframe>
+
 ==TODO==
 
 ## Goals
+- Practice my English writing 
 ==TODO==
 
 ## Technology
