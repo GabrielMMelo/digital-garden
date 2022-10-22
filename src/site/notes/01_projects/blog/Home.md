@@ -21,6 +21,3 @@ All content shared within this space[^1] reflects the perceptions and points of 
 
 ## Posts
 
-
-
-![[cv.pdf]]
