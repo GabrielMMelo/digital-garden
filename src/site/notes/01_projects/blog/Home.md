@@ -4,6 +4,11 @@
 
 # gabrielmmelo's window 🪟
 
+
+> [!WARNING] WORK IN PROGRESS
+> This is a work in progress since I'm still migrating some features and content from older personal blogs.
+
+
 > [!Quote] *If you ever have to answer the same question twice, it’s probably a good idea to turn it into a blog post.* [[Unknown author|Unknown author]]
 
 ## 
