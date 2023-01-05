@@ -10,7 +10,7 @@
 from datetime import datetime
 start_date_str = "2019-11-07"
 now = datetime.now()
-start_date = datetime.strptime(start_date_str, "%y-%m-%d")
+start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
 print(now - start_date)
 </py-script>
 
