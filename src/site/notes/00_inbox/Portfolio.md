@@ -11,7 +11,8 @@ from datetime import datetime
 start_date_str = "2019-11-07"
 now = datetime.now()
 start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
-print(now - start_date)
+delta = now - start_date
+print('{} years, {} months, {} days, and {} seconds'.format(delta.years, delta.months, delta.days, delta.seconds))
 </py-script>
 
 # Personal projects
