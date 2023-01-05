@@ -4,6 +4,11 @@
 
 
 
+> [!WARNING] WORK IN PROGRESS
+> This is a work in progress since I'm still migrating some features and content from older personal blogs.
+
+
+
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 <py-script>
@@ -12,7 +17,11 @@ start_date_str = "2019-11-07"
 now = datetime.now()
 start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
 delta = now - start_date
-print('{} years, {} months, {} days, and {} seconds'.format(delta.years, delta.months, delta.days, delta.seconds))
+delta_years =  delta.days / 365.2425 
+delta_months = delta_years * 12
+delta_days = delta.days
+delta_seconds = delta.seconds
+print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
 </py-script>
 
 # Personal projects
