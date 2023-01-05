@@ -4,7 +4,9 @@
 
 
 
-`= date(now) - date(2022-01-01)`
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+<py-script> print('Hello, World!') </py-script>
 
 # Personal projects
 
