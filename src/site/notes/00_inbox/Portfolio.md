@@ -9,27 +9,9 @@
 
 
 
-<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-
-<py-script>
-from datetime import datetime
-start_date_str = "2019-11-07"
-now = datetime.now()
-start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
-delta = now - start_date
-delta_years =  round(delta.days / 365.2425, 2) 
-delta_months = round(delta_years * 12, 2)
-delta_days = delta.days
-delta_seconds = delta.seconds
-print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
-</py-script>
 
 # Personal projects
 
-## Test 1
-==TODO==
-
-## Test 2
 ==TODO==
 
 ---
