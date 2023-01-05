@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/blog/window/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/01-projects/blog/window/","dgShowLocalGraph":true}
 ---
 
 
 ## What is this?
 ==TODO==
+
 
 
 ## Goals
@@ -26,12 +27,6 @@
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
 
 
 
