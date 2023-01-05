@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":["window-post","gardenEntry"],"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/01-projects/blog/home/","tags":["window-post","gardenEntry"],"dgShowLocalGraph":true,"dgShowInlineTitle":false}
 ---
 
 # gabrielmmelo's window 🪟
