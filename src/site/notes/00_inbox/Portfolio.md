@@ -6,7 +6,13 @@
 
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
-<py-script> print('Hello, World!') </py-script>
+<py-script>
+from datetime import datetime
+start_date_str = "2019-11-07"
+now = datetime.now()
+start_date = strptime(start_date_str, "%y-%m-%d")
+print(now - start_date)
+</py-script>
 
 # Personal projects
 
