@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-window/sandbox/me/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/digital-window/sandbox/me/","tags":["window-post"],"dgShowLocalGraph":true}
 ---
 
 
