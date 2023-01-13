@@ -9,7 +9,7 @@
 
 
 
-<py-script src="https://gist.githubusercontent.com/GabrielMMelo/d1ce71596a0d7e02bb80b4188f1f8a1c/raw/career_timer.py"/>
+<py-script src="https://gist.githubusercontent.com/GabrielMMelo/d1ce71596a0d7e02bb80b4188f1f8a1c/raw/career_timer.py"><py-script/>
 
 
 ---
