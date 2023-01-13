@@ -8,7 +8,10 @@
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 
-<div id="career_timer"></div>
+<div class="career_duration">
+	<div>I've been working professionally for:</div>
+	<div id="career_timer"></div>
+</div>
 
 
 ## Personal projects
