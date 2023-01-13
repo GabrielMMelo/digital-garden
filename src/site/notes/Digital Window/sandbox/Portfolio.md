@@ -21,10 +21,10 @@
 <section class="jobs">
 <div class="job">
 
-## Northland Properties
+### Northland Properties
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://northland.ca/wp-content/uploads/2021/08/NorthlandProperties_Horiz_240px.svg" width="100px" />
+    <img align="right" class="header job-company-logo" src="https://northland.ca/wp-content/uploads/2021/08/NorthlandProperties_Horiz_240px.svg" width="200px" />
     <div class="details">
       <a class="job-company-url" href="https://northland.ca/">northland.ca/</a><br>
       <span><b>Data Engineer</b></span><br>
@@ -33,18 +33,15 @@
     </div>
   </div>
 
-
-### Overview
-
-==TODO==
+- Todo
 
 </div>
 <div class="job">
 
-## BFA Industries
+### BFA Industries
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="100px" />
+    <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="200px" />
     <div class="details">
       <a class="job-company-url" href="https://www.bfaindustries.com/">bfaindustries.com</a><br>
       <span><b>Data Engineer</b></span><br>
@@ -54,17 +51,15 @@
   </div>
 
 
-### Overview
-
-==TODO==
+- Todo
 
 </div>
 <div class="job">
 
-## Blueshift
+### Blueshift
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://blueshift.com.br/img/logo-blueshift.svg" width="100px" />
+    <img align="right" class="header job-company-logo" src="https://blueshift.com.br/img/logo-blueshift.svg" width="150px" />
     <div class="details">
       <a class="job-company-url" href="https://blueshift.com.br/">blueshift.com.br</a><br>
       <span><b>Senior Data Engineer</b></span><br>
@@ -74,17 +69,15 @@
   </div>
 
 
-### Overview
-
-==TODO==
+- Todo
 
 </div>
 <div class="job">
 
-## Grupo Boticário
+### Grupo Boticário
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://d2908q01vomqb2.cloudfront.net/d435a6cdd786300dff204ee7c2ef942d3e9034e2/2022/06/21/botblog_image001-1.png" width="100px" />
+    <img align="right" class="header job-company-logo" src="https://d2908q01vomqb2.cloudfront.net/d435a6cdd786300dff204ee7c2ef942d3e9034e2/2022/06/21/botblog_image001-1.png" width="200px" />
     <div class="details">
       <a class="job-company-url" href="https://www.grupoboticario.com.br/">grupoboticario.com.br</a><br>
       <span><b>Data Engineer</b></span><br>
@@ -94,17 +87,15 @@
   </div>
 
 
-### Overview
-
-==TODO==
+- Todo
 
 </div>
 <div class="job">
 
-## dti Digital
+### dti Digital
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://avatars.githubusercontent.com/u/38961128?s=280&v=4" width="100px" />
+    <img align="right" class="header job-company-logo" src="https://avatars.githubusercontent.com/u/38961128?s=280&v=4" width="200px" />
     <div class="details">
       <a class="job-company-url" href="https://www.dtidigital.com.br/">dtidigital.com.br</a><br>
       <span><b>Data Engineer</b></span><br>
@@ -113,18 +104,15 @@
     </div>
   </div>
 
-
-### Overview
-
-==TODO==
+- Todo
 
 </div>
 <div class="job">
 
-## Accenture
+### Accenture
 
   <div class="heading">
-    <img align="right" class="header" src="https://www.creativevirtual.com/wp-content/uploads/2021/03/accenture-logo.png" width="100px" />
+    <img align="right" class="header" src="https://www.creativevirtual.com/wp-content/uploads/2021/03/accenture-logo.png" width="200px" />
     <div class="details">
       <a href="https://www.accenture.com/us-en">accenture.com</a><br>
       <span class="job-position"><b>Data Engineer</b></span><br>
@@ -134,9 +122,8 @@
   </div>
 
 
-### Overview
+- Todo
 
-==TODO==
 
 
 </div>
