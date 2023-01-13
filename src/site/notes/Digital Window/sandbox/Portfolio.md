@@ -11,7 +11,7 @@
 from datetime import datetime
 from time import sleep
 start_date_str = "2019-11-07"
-while true:
+while True:
 	now = datetime.now()
 	start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
 	delta = now - start_date
