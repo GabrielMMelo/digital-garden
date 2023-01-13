@@ -4,25 +4,23 @@
 
 
 
-> [!WARNING] WORK IN PROGRESS
-> This is a work in progress since I'm still migrating some features and content from older personal blogs.
-
-
-
 
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 <py-script>
 from datetime import datetime
+from time import sleep
 start_date_str = "2019-11-07"
-now = datetime.now()
-start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
-delta = now - start_date
-delta_years =  round(delta.days / 365.2425, 2) 
-delta_months = round(delta_years * 12, 2)
-delta_days = delta.days
-delta_seconds = delta.seconds
-print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
+while true:
+	now = datetime.now()
+	start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
+	delta = now - start_date
+	delta_years =  round(delta.days / 365.2425, 2) 
+	delta_months = round(delta_years * 12, 2)
+	delta_days = delta.days
+	delta_seconds = delta.seconds
+	print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
+	sleep(1)
 </py-script>
 
 ---
