@@ -29,7 +29,7 @@
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://northland.ca/wp-content/uploads/2021/08/NorthlandProperties_Horiz_240px.svg" width="200px" />
     <div class="details">
-      <a class="job-company-url" href="https://northland.ca/">northland.ca/</a><br>
+      <a class="job-company-url" href="https://northland.ca/">northland.ca</a><br>
       <span><b>Data Engineer</b></span><br>
       <span><i>Vancouver, Canada</i></span><br>
       <span><i>2022 - 2023</i></span><br>
