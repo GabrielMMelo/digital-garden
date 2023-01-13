@@ -9,19 +9,26 @@
 
 <py-script>
 from datetime import datetime
-from time import sleep
+import asyncio
 start_date_str = "2019-11-07"
-while True:
-	now = datetime.now()
-	start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
-	delta = now - start_date
-	delta_years =  round(delta.days / 365.2425, 2) 
-	delta_months = round(delta_years * 12, 2)
-	delta_days = delta.days
-	delta_seconds = delta.seconds
-	print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
-	sleep(1)
+
+async def foo():
+	while True:
+		now = datetime.now()
+		start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
+		delta = now - start_date
+		delta_years =  round(delta.days / 365.2425, 2) 
+		delta_months = round(delta_years * 12, 2)
+		delta_days = delta.days
+		delta_seconds = delta.seconds
+		print('{} years, {} months, {} days, and {} seconds'.format(delta_years, delta_months, delta_days, delta_seconds))
+		pyscript.write("career_times", output)
+		await asyncio.sleep(1)
+
+pyscript.run_until_complete(foo())
 </py-script>
+
+<div id="career_timer"></div>
 
 ---
 
