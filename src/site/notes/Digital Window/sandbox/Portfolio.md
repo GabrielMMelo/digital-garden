@@ -10,13 +10,13 @@
 
 
 
-# Personal projects
+## Personal projects
 
 ==TODO==
 
 ---
 
-# Professional Experiences
+## Professional Experiences
 
 <section class="jobs">
 <div class="job">
@@ -40,7 +40,7 @@
 ### BFA Industries
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="200px" />
+    <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="150px" />
     <div class="details">
       <a class="job-company-url" href="https://www.bfaindustries.com/">bfaindustries.com</a><br>
       <span><b>Data Engineer</b></span><br>
@@ -88,7 +88,7 @@
 ### dti Digital
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://avatars.githubusercontent.com/u/38961128?s=280&v=4" width="200px" />
+    <img align="right" class="header job-company-logo" src="https://avatars.githubusercontent.com/u/38961128?s=280&v=4" width="100px" />
     <div class="details">
       <a class="job-company-url" href="https://www.dtidigital.com.br/">dtidigital.com.br</a><br>
       <span><b>Data Engineer</b></span><br>
