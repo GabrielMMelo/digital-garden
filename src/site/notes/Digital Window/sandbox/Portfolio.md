@@ -32,10 +32,9 @@
       <span><i>2022 - 2023</i></span><br>
     </div>
   </div>
-
-- Todo
-
+  <!-- description here -->
 </div>
+
 <div class="job">
 
 ### BFA Industries
@@ -49,17 +48,15 @@
       <span><i>2022</i></span><br>
     </div>
   </div>
-
-
-- Todo
-
+  <!-- description here -->
 </div>
+
 <div class="job">
 
 ### Blueshift
 
   <div class="heading">
-    <img align="right" class="header job-company-logo" src="https://blueshift.com.br/img/logo-blueshift.svg" width="150px" />
+    <img align="right" class="header job-company-logo" src="https://blueshift.com.br/img/logo-blueshift.svg" width="200px" />
     <div class="details">
       <a class="job-company-url" href="https://blueshift.com.br/">blueshift.com.br</a><br>
       <span><b>Senior Data Engineer</b></span><br>
@@ -67,11 +64,9 @@
       <span><i>2021 - 2022</i></span><br>
     </div>
   </div>
-
-
-- Todo
-
+  <!-- description here -->
 </div>
+
 <div class="job">
 
 ### Grupo Boticário
@@ -85,11 +80,9 @@
       <span><i>2021</i></span><br>
     </div>
   </div>
-
-
-- Todo
-
+  <!-- description here -->
 </div>
+
 <div class="job">
 
 ### dti Digital
@@ -103,10 +96,9 @@
       <span><i>2021</i></span><br>
     </div>
   </div>
-
-- Todo
-
+  <!-- description here -->
 </div>
+
 <div class="job">
 
 ### Accenture
@@ -120,13 +112,9 @@
       <span class="job-duration"><i>2019 - 2021</i></span><br>
     </div>
   </div>
-
-
-- Todo
-
-
-
+  <!-- description here -->
 </div>
+
 </div>
 
 
