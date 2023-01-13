@@ -7,8 +7,6 @@
 
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
-<py-script src="https://gist.githubusercontent.com/GabrielMMelo/d1ce71596a0d7e02bb80b4188f1f8a1c/raw/career_timer.py"></py-script>
-
 
 ---
 
@@ -123,3 +121,5 @@
 </div>
 
 
+
+<py-script src="https://gist.githubusercontent.com/GabrielMMelo/d1ce71596a0d7e02bb80b4188f1f8a1c/raw/career_timer.py"></py-script>
