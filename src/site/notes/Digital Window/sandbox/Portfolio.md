@@ -59,9 +59,9 @@
 </details>
 
 <details>
-<div class="job">
   <summary><h3>BFA Industries</h3></summary>
 
+<div class="job">
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="150px" />
     <div class="details">
