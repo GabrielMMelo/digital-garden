@@ -11,6 +11,16 @@
 
 <div class="career-stats">
 	<div>I've been working professionally for</div>
+		<div style="align-items: center;display: inline-flex;">
+			<span style="margin: 27px;">
+				<div id="career_timer_years" style="text-align: center;">123</div>
+				<div>Years</div>
+			</span>
+			<span>
+				<div id="career_timer_months" style="text-align: center;">456</div>
+				<div>Months</div>
+			</span>
+		</div>
 	<div id="career_timer"></div>
 </div>
 
