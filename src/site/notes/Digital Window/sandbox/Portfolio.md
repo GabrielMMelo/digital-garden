@@ -8,9 +8,9 @@
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 
+I've been working professionally for
 
 <div class="career-stats">
-	<div><i>I've been working professionally for</i></div>
 		<div style="display: inline-flex;flex-direction: row;flex-wrap: wrap;justify-content: center;width: 100%;align-items: center;">
 			<span class="career_timer_card">
 				<div id="career_timer_years" class="career_timer_value">-</div>
