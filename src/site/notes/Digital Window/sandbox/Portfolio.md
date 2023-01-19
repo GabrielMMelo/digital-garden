@@ -31,7 +31,6 @@
 		</div>
 </div>
 
-
 ## Personal projects
 
 ==TODO==
@@ -40,8 +39,14 @@
 ## Professional Experiences
 
 <section class="jobs">
-<div class="job">
 
+
+
+<details>
+  <summary>Northland Properties</summary>
+  
+
+<div class="job">
 ### Northland Properties
 
   <div class="heading">
@@ -55,6 +60,7 @@
   </div>
   <!-- description here -->
 </div>
+</details>
 
 <div class="job">
 
