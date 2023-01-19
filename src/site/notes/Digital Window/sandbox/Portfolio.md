@@ -33,9 +33,9 @@
 
 ## Personal projects
 
-<div>
-<div class="github-card" data-github="gabrielmmelo/osdearc" data-width="400" data-height="177" data-theme="default"></div>
-<div class="github-card" data-github="gabrielmmelo/psql_parquet_s3_fdw" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-cards">
+<div class="github-card" data-github="gabrielmmelo/osdearc" data-width="350" data-height="220" data-theme="default"></div>
+<div class="github-card" data-github="gabrielmmelo/psql_parquet_s3_fdw" data-width="350" data-height="220" data-theme="default"></div>
 </div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
