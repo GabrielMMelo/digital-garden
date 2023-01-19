@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-window/sandbox/portfolio/","tags":["window-post"],"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/digital-window/sandbox/portfolio/","tags":["window-post"],"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowToc":true}
 ---
 
 
