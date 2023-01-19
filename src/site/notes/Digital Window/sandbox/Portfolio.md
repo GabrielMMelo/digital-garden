@@ -10,26 +10,25 @@
 
 
 <div class="career-stats">
-	<div>I've been working professionally for</div>
-		<div style="align-items: center;display: inline-flex;">
-			<span style="margin: 27px;">
-				<div id="career_timer_years" style="text-align: center;">0</div>
-				<div>Years</div>
+	<div><i>I've been working professionally for</i></div>
+		<div style="display: inline-flex;flex-direction: row;flex-wrap: wrap;justify-content: center;width: 100%;align-items: center;">
+			<span class="career_timer_card">
+				<div id="career_timer_years" class="career_timer_value">-</div>
+				<div class="career_timer_label">Years</div>
 			</span>
-			<span>
-				<div id="career_timer_months" style="text-align: center;">0</div>
-				<div>Months</div>
+			<span class="career_timer_card" >
+				<div id="career_timer_months" class="career_timer_value">-</div>
+				<div class="career_timer_label">Months</div>
 			</span>
-			<span>
-				<div id="career_timer_days" style="text-align: center;">0</div>
-				<div>Days</div>
+			<span class="career_timer_card" >
+				<div id="career_timer_days" class="career_timer_value">-</div>
+				<div class="career_timer_label">Days</div>
 			</span>
-			<span>
-				<div id="career_timer_seconds" style="text-align: center;">0</div>
-				<div>Seconds</div>
+			<span class="career_timer_card" >
+				<div id="career_timer_seconds" class="career_timer_value">-</div>
+				<div class="career_timer_label">Seconds</div>
 			</span>
 		</div>
-	<div id="career_timer"></div>
 </div>
 
 
