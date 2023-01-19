@@ -4,6 +4,12 @@ body {
     text-align: justify;
   }
 
+  /* font size */
+  .cm-s-obsidian, .mod-single-child .cm-s-obsidian {
+    font-size: 1.2rem!important;
+    line-height: 2.4rem!important;
+  }
+
   /* Override header colors */
   h1 {
     color: darksalmon!important;
