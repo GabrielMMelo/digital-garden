@@ -39,12 +39,10 @@
 ## Professional Experiences
 
 <section class="jobs">
-
-
-
-<details>
-  <summary><h3> Northland Properties </h3></summary>
 <div class="job">
+
+### Northland Properties
+
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://northland.ca/wp-content/uploads/2021/08/NorthlandProperties_Horiz_240px.svg" width="200px" />
     <div class="details">
@@ -56,12 +54,11 @@
   </div>
   <!-- description here -->
 </div>
-</details>
-
-<details>
-  <summary><h3>BFA Industries</h3></summary>
 
 <div class="job">
+
+### BFA Industries
+
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="150px" />
     <div class="details">
@@ -73,7 +70,6 @@
   </div>
   <!-- description here -->
 </div>
-</details>
 
 <div class="job">
 
