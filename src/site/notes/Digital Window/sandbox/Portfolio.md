@@ -45,7 +45,7 @@
 <section class="jobs">
 <div class="job">
 
-### Northland Properties
+<h3> Northland Properties </h3>
 
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://northland.ca/wp-content/uploads/2021/08/NorthlandProperties_Horiz_240px.svg" width="200px" />
@@ -61,7 +61,7 @@
 
 <div class="job">
 
-### BFA Industries
+<h3> BFA Industries </h3>
 
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://mma.prnewswire.com/media/1472361/BFA_Industries_Logo.jpg?p=facebook" width="150px" />
@@ -77,7 +77,7 @@
 
 <div class="job">
 
-### Blueshift
+<h3> Blueshift </h3>
 
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://blueshift.com.br/img/logo-blueshift.svg" width="200px" />
@@ -93,7 +93,7 @@
 
 <div class="job">
 
-### Grupo Boticário
+<h3> Grupo Boticário </h3>
 
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://d2908q01vomqb2.cloudfront.net/d435a6cdd786300dff204ee7c2ef942d3e9034e2/2022/06/21/botblog_image001-1.png" width="200px" />
@@ -109,7 +109,7 @@
 
 <div class="job">
 
-### dti Digital
+<h3> dti Digital </h3>
 
   <div class="heading">
     <img align="right" class="header job-company-logo" src="https://avatars.githubusercontent.com/u/38961128?s=280&v=4" width="100px" />
@@ -125,7 +125,7 @@
 
 <div class="job">
 
-### Accenture
+<h3> Accenture </h3>
 
   <div class="heading">
     <img align="right" class="header" src="https://www.creativevirtual.com/wp-content/uploads/2021/03/accenture-logo.png" width="200px" />
