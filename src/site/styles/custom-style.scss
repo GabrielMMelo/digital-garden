@@ -15,6 +15,18 @@ body {
     color: black!important;
   }
 
+  /* Remove prefix from headers */
+  h1::before,h2::before,h3::before,h4::before,h5::before {
+    content: "";
+    padding-left: 0;
+  }
+
+  /* Make navbar main title and sidebar title smaller */
+  .navbar-inner > a > h1,.filetree-sidebar > a > h1 {
+    font-size: 25px!important;
+    color: var(--text-title-h2)!important;
+  }
+
   /* Portfolio Stats */
 
   /* Add icon to external links */
@@ -51,7 +63,8 @@ body {
   /* Make first letter of first paragraph big:
     - Unconsider header images
   */
-  div:first-of-type > h2:first-of-type+p:not(:has(img))::first-letter {
+  /*div:first-of-type > h2:first-of-type+p:not(:has(img))::first-letter*/
+  div.content > p:first-of-type:not(:has(img))::first-letter {
     font-size: 45px;
     font-family: InitialCaps-O5WP;
   }
@@ -99,6 +112,8 @@ body {
   * Portfolio
   * - Style previous experiences section
   * - Stats formating
+  * - Jobs list scrollable
+  * - Github project cards
   */
   .job {
     padding: 20px;
@@ -106,9 +121,36 @@ body {
   .job:nth-child(odd) {
     background-color: rgba(1,1,1,0.03);
   }
+  .job:nth-child(odd):hover {
+    background-color: rgba(1,1,1,0.1);
+  }
+  .job:nth-child(even) {
+    background-color: rgba(255,255,255);
+  }
+  .jobs {
+    height: 22rem;
+    overflow: scroll;
+  }
   #career_timer {
     text-align: right;
     font-style: italic;
   }
-  
+  .career_timer_card {
+    margin: 25px;
+  }
+  .career_timer_value,.career_timer_label {
+    text-align: center;
+  }
+  .github-cards {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .github-cards > iframe {
+    margin: 20px;
+  }
 }
